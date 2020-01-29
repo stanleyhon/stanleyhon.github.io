@@ -2,7 +2,7 @@
   "dir" : "ltr",
   "lang" : "en",
   "name" : "WHYdOESNTTHISPOTATOWORK",
-  "scope" : "/Dogs/",
+  "scope" : "/dota/",
   "display" : "standalone",
   "start_url" : ".",
   "short_name" : "List of dogs",
