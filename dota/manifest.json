@@ -1,6 +1,7 @@
 {
     "name": "STANLEY TESTING",
     "short_name": "stan",
+    "scope": "/dota/",
     "icons": [{
         "src": "/images/icons/192.png",
         "sizes": "192x192",
@@ -10,7 +11,7 @@
         "sizes": "512x512",
         "type": "image/png"
       }],
-    "start_url": "/index.html",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#3E4EB8",
     "theme_color": "#2F3BA2",
