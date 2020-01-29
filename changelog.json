@@ -1,0 +1,32 @@
+{
+    "versions": [
+      {
+        "name": "version 1001.3",
+        "date": "July 8, 2019 ",
+        "description": [
+  
+          "Updated the websites background.",
+          "Added more pictures to the galleries.",
+          "Added descriptions such as weight, age, and life expectancy behind each photo."
+        ]
+      },
+      {
+        "name": "version 1001.2",
+        "date": "June 16, 2019",
+        "description": [
+  
+          "Added photo effect."
+        ]
+      },
+      {
+        "name": "version 1001.1",
+        "date": "May 5, 2019",
+        "description": [
+  
+          "Added categories for different sizes of dogs.",
+          "Changed font colors."
+        ]
+  
+      }
+    ]
+  }
